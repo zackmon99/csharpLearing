@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\bin\Debug\netcoreapp3.1\StaticConstructors.exe
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\bin\Debug\netcoreapp3.1\StaticConstructors.deps.json
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\bin\Debug\netcoreapp3.1\StaticConstructors.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\bin\Debug\netcoreapp3.1\StaticConstructors.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\bin\Debug\netcoreapp3.1\StaticConstructors.dll
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\bin\Debug\netcoreapp3.1\StaticConstructors.pdb
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\obj\Debug\netcoreapp3.1\StaticConstructors.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\obj\Debug\netcoreapp3.1\StaticConstructors.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\obj\Debug\netcoreapp3.1\StaticConstructors.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\obj\Debug\netcoreapp3.1\StaticConstructors.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\obj\Debug\netcoreapp3.1\StaticConstructors.dll
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\obj\Debug\netcoreapp3.1\StaticConstructors.pdb
+C:\Users\zackm\source\repos\csharpLearning\StaticConstructors\StaticConstructors\obj\Debug\netcoreapp3.1\StaticConstructors.genruntimeconfig.cache
