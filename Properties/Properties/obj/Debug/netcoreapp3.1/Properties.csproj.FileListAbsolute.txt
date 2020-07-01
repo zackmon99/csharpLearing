@@ -1,0 +1,12 @@
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
