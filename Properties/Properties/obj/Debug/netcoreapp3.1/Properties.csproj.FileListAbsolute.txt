@@ -10,3 +10,4 @@ C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netco
 C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
 C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
 C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
+C:\Users\zackm\source\repos\csharpLearning\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
