@@ -28,8 +28,9 @@ namespace Inheritance
             _companyName = companyName;
         }
 
-
-        public string say()
+        // If not a virtual method, you must include new keyword.  This implements
+        // 'Method Hiding'
+        new public string Say()
         {
             // Gotta use the property here because _id is private.
             // if it were protected (or public), you could access it directly
@@ -37,5 +38,13 @@ namespace Inheritance
             // but I want to demonstrate access levels here
             return "Id is: " + ID + "\nName is " + Name + "\nCompany Name is " + _companyName;
         }
+
+        // Override is needed to override a virtual method
+        public override void Do()
+        {
+            Console.WriteLine("Corporate customer is doing something.");
+        }
+
+        
     }
 }

@@ -43,9 +43,14 @@ namespace Inheritance
             _name = name;
         }
 
-        public string say()
+        public string Say()
         {
             return "Id is: " + _id + "\nName is: " + _name;
+        }
+
+        public virtual void Do()
+        {
+            Console.WriteLine("Customer is doing something");
         }
     }
 }
