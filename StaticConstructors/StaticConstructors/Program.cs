@@ -13,6 +13,7 @@ namespace StaticConstructors
         // member variables.
         public Example()
         {
+            Console.WriteLine("Normal constructor running.");
             i = 100;
             // You can also change statics here BUT
             // they lose the static nature
@@ -27,6 +28,7 @@ namespace StaticConstructors
         // location for all Examples
         static Example()
         {
+            Console.WriteLine("Static constructor running.");
             j = 100;
         }
         public void Display()
@@ -41,9 +43,11 @@ namespace StaticConstructors
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Creating e1.");
             Example e1 = new Example();
             e1.Display();
             e1.Display();
+            Console.WriteLine("Creating e2.");
             Example e2 = new Example();
             e2.Display();
             e2.Display();
