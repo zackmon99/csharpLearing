@@ -1,0 +1,12 @@
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\obj\Debug\netcoreapp3.1\ConstAndReadonly.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\obj\Debug\netcoreapp3.1\ConstAndReadonly.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\obj\Debug\netcoreapp3.1\ConstAndReadonly.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\bin\Debug\netcoreapp3.1\ConstAndReadonly.exe
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\bin\Debug\netcoreapp3.1\ConstAndReadonly.deps.json
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\bin\Debug\netcoreapp3.1\ConstAndReadonly.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\bin\Debug\netcoreapp3.1\ConstAndReadonly.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\bin\Debug\netcoreapp3.1\ConstAndReadonly.dll
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\bin\Debug\netcoreapp3.1\ConstAndReadonly.pdb
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\obj\Debug\netcoreapp3.1\ConstAndReadonly.dll
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\obj\Debug\netcoreapp3.1\ConstAndReadonly.pdb
+C:\Users\zackm\source\repos\csharpLearning\ConstAndReadonly\ConstAndReadonly\obj\Debug\netcoreapp3.1\ConstAndReadonly.genruntimeconfig.cache
