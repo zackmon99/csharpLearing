@@ -1,0 +1,12 @@
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\bin\Debug\netcoreapp3.1\CheckedUnchecked.exe
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\bin\Debug\netcoreapp3.1\CheckedUnchecked.deps.json
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\bin\Debug\netcoreapp3.1\CheckedUnchecked.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\bin\Debug\netcoreapp3.1\CheckedUnchecked.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\bin\Debug\netcoreapp3.1\CheckedUnchecked.dll
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\bin\Debug\netcoreapp3.1\CheckedUnchecked.pdb
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\obj\Debug\netcoreapp3.1\CheckedUnchecked.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\obj\Debug\netcoreapp3.1\CheckedUnchecked.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\obj\Debug\netcoreapp3.1\CheckedUnchecked.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\obj\Debug\netcoreapp3.1\CheckedUnchecked.dll
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\obj\Debug\netcoreapp3.1\CheckedUnchecked.pdb
+C:\Users\zackm\source\repos\csharpLearning\CheckedUnchecked\CheckedUnchecked\obj\Debug\netcoreapp3.1\CheckedUnchecked.genruntimeconfig.cache
