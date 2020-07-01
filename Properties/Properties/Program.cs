@@ -179,6 +179,11 @@ namespace Properties
                 return _passMark;
             }
         }
+
+        public override string ToString()
+        {
+            return "ID: " + _id + "\nName: " + _name;
+        }
     }
     class Program
     {
@@ -264,6 +269,8 @@ namespace Properties
             Console.WriteLine("Student ID = {0}", student2.ID);
             Console.WriteLine("Student Name = {0}", student2.Name);
             Console.WriteLine("Student Pass Mark = {0}", student2.PassMark);
+
+            Console.WriteLine(student2.ToString());
 
 
         }
