@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.exe
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.deps.json
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.dll
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.pdb
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.dll
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.pdb
+C:\Users\zackm\source\repos\csharpLearning\PartialClasses\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.genruntimeconfig.cache

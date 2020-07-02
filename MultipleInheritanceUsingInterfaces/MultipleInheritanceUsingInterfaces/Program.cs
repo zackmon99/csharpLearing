@@ -23,6 +23,7 @@ namespace MultipleInheritanceUsingInterfaces
             Interface2 obj2 = new ImplementInterface();
             obj2.Test();
             obj2.Show();
+            
         }
     }
 }
