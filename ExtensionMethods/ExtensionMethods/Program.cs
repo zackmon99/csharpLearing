@@ -15,6 +15,7 @@ namespace ExtensionMethods
             obj.Test5();
 
             string test = "A fine day";
+            Console.WriteLine("The string is: " + test);
             Console.WriteLine("The string has " + test.GetWordCount() + " words");
         }
     }
