@@ -24,6 +24,35 @@ namespace Tuples
             // You can explicitly name the fields, too
             var (CountResult, SumResult) = Calculate2(values);
             Console.WriteLine($"There are {CountResult} values and their sum is {SumResult}");
+
+            // Showing more tuple splitting
+            // Way 1:
+            var EmployeeDetails = GetEmployeeDetails(1001);
+
+            var Name = EmployeeDetails.Item1;
+            var Salary = EmployeeDetails.Item2;
+            var Gender = EmployeeDetails.Item3;
+            var Dept = EmployeeDetails.Item4;
+            Console.WriteLine($"Name: {Name},  Gender: {Gender}, Department: {Dept}, Salary:{Salary}");
+
+            // Way 2
+            (string Name2, double Salary2, string Gender2, String Dept2) = GetEmployeeDetails(1001);
+            Console.WriteLine($"Name: {Name2},  Gender: {Gender2}, Department: {Dept2}, Salary:{Salary2}");
+
+            // Way 3
+            // can also use var individually as way 2
+            var (Name3, Salary3, Gender3, Dept3) = GetEmployeeDetails(1001);
+            Console.WriteLine($"Name: {Name3},  Gender: {Gender3}, Department: {Dept3}, Salary:{Salary3}");
+
+            // Way 4
+            string Name4;
+            double Salary4;
+            string Gender4 = "Female";
+            string Dept4 = "HR";
+
+            (Name4, Salary4, Gender4, Dept4) = GetEmployeeDetails(1001);
+            Console.WriteLine($"Name: {Name4},  Gender: {Gender4}, Department: {Dept4}, Salary:{Salary4}");
+
         }
 
         private static Tuple<int, double> Calculate(IEnumerable<double> values)
@@ -54,6 +83,16 @@ namespace Tuples
             }
 
             return (count, sum);
+        }
+
+        private static (string, double, string, string) GetEmployeeDetails(long EmployeeID)
+        {
+            string EmployeeName = "Zack";
+            double Salary = 1_000_000;
+            string Gender = "Male";
+            string Department = "Software Dev";
+
+            return (EmployeeName, Salary, Gender, Department);
         }
     }
 }
