@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.exe
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.deps.json
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.dll
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.pdb
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.dll
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.pdb
+C:\Users\zackm\source\repos\csharpLearning\PatternMatching\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.genruntimeconfig.cache
