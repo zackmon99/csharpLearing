@@ -15,6 +15,7 @@ namespace ExtensionMethods
         public void Test2()
         {
             Console.WriteLine("Method two: " + x);
+            "This is a test".GetWordCount();
         }
     }
 }
