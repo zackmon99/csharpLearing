@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\bin\Debug\netcoreapp3.1\UsingOut.exe
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\bin\Debug\netcoreapp3.1\UsingOut.deps.json
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\bin\Debug\netcoreapp3.1\UsingOut.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\bin\Debug\netcoreapp3.1\UsingOut.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\bin\Debug\netcoreapp3.1\UsingOut.dll
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\bin\Debug\netcoreapp3.1\UsingOut.pdb
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\obj\Debug\netcoreapp3.1\UsingOut.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\obj\Debug\netcoreapp3.1\UsingOut.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\obj\Debug\netcoreapp3.1\UsingOut.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\obj\Debug\netcoreapp3.1\UsingOut.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\obj\Debug\netcoreapp3.1\UsingOut.dll
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\obj\Debug\netcoreapp3.1\UsingOut.pdb
+C:\Users\zackm\source\repos\csharpLearning\UsingOut\UsingOut\obj\Debug\netcoreapp3.1\UsingOut.genruntimeconfig.cache
