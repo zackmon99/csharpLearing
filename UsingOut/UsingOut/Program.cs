@@ -12,6 +12,7 @@ namespace UsingOut
             Console.WriteLine("Hello World!");
 
             // So this is basically pass by reference in c++.  IE: &Name, &Gender, &Salary, &Department
+            // as the parameters in the method/
             // Additionally, calling a method with out variables can declare it at the same time,
             // as I do here.  This is new in C#7
             // You can ignore a vairable by using _ .  For example, if I did not want to create a
