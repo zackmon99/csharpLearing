@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\obj\Debug\netcoreapp3.1\RefReturnsLocals.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\obj\Debug\netcoreapp3.1\RefReturnsLocals.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\obj\Debug\netcoreapp3.1\RefReturnsLocals.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\obj\Debug\netcoreapp3.1\RefReturnsLocals.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\bin\Debug\netcoreapp3.1\RefReturnsLocals.exe
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\bin\Debug\netcoreapp3.1\RefReturnsLocals.deps.json
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\bin\Debug\netcoreapp3.1\RefReturnsLocals.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\bin\Debug\netcoreapp3.1\RefReturnsLocals.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\bin\Debug\netcoreapp3.1\RefReturnsLocals.dll
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\bin\Debug\netcoreapp3.1\RefReturnsLocals.pdb
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\obj\Debug\netcoreapp3.1\RefReturnsLocals.dll
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\obj\Debug\netcoreapp3.1\RefReturnsLocals.pdb
+C:\Users\zackm\source\repos\csharpLearning\RefReturnsLocals\RefReturnsLocals\obj\Debug\netcoreapp3.1\RefReturnsLocals.genruntimeconfig.cache
