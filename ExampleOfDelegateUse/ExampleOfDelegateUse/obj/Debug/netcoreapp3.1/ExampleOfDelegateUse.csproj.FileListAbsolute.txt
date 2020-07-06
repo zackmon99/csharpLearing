@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\bin\Debug\netcoreapp3.1\ExampleOfDelegateUse.exe
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\bin\Debug\netcoreapp3.1\ExampleOfDelegateUse.deps.json
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\bin\Debug\netcoreapp3.1\ExampleOfDelegateUse.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\bin\Debug\netcoreapp3.1\ExampleOfDelegateUse.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\bin\Debug\netcoreapp3.1\ExampleOfDelegateUse.dll
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\bin\Debug\netcoreapp3.1\ExampleOfDelegateUse.pdb
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\obj\Debug\netcoreapp3.1\ExampleOfDelegateUse.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\obj\Debug\netcoreapp3.1\ExampleOfDelegateUse.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\obj\Debug\netcoreapp3.1\ExampleOfDelegateUse.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\obj\Debug\netcoreapp3.1\ExampleOfDelegateUse.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\obj\Debug\netcoreapp3.1\ExampleOfDelegateUse.dll
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\obj\Debug\netcoreapp3.1\ExampleOfDelegateUse.pdb
+C:\Users\zackm\source\repos\csharpLearning\ExampleOfDelegateUse\ExampleOfDelegateUse\obj\Debug\netcoreapp3.1\ExampleOfDelegateUse.genruntimeconfig.cache

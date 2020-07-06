@@ -30,7 +30,18 @@ namespace Delegates
             //Calling static method with class name
             string GreetingsMessage = gd("Zack");
             Console.WriteLine(GreetingsMessage);
-            Console.ReadKey();
+
+            // Using an anonymous method:
+            // Anonymous functions cannot:
+            // 1. Use 'jump', 'goto', 'break', 'continue'
+            // 2. Use ref or out
+            // 3. Use 'unsafe code.
+            GreetingsDelagate gd2 = delegate (string name)
+            {
+                return "GREETINGS " + name + " HOW ARE YOU?? THIS IS AN ANONYMOUS FUNCTION";
+            };
+
+            Console.WriteLine(gd2("ZACK"));
         }
     }
 }

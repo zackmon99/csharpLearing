@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\bin\Debug\netcoreapp3.1\GenericDelegates.exe
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\bin\Debug\netcoreapp3.1\GenericDelegates.deps.json
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\bin\Debug\netcoreapp3.1\GenericDelegates.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\bin\Debug\netcoreapp3.1\GenericDelegates.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\bin\Debug\netcoreapp3.1\GenericDelegates.dll
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\bin\Debug\netcoreapp3.1\GenericDelegates.pdb
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.dll
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.pdb
+C:\Users\zackm\source\repos\csharpLearning\GenericDelegates\GenericDelegates\obj\Debug\netcoreapp3.1\GenericDelegates.genruntimeconfig.cache
