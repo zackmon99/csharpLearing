@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\zackm\source\repos\csharpLearning\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
