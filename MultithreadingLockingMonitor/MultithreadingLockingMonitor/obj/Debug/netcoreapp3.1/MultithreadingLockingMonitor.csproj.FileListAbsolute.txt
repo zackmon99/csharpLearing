@@ -1,0 +1,13 @@
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\bin\Debug\netcoreapp3.1\MultithreadingLockingMonitor.exe
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\bin\Debug\netcoreapp3.1\MultithreadingLockingMonitor.deps.json
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\bin\Debug\netcoreapp3.1\MultithreadingLockingMonitor.runtimeconfig.json
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\bin\Debug\netcoreapp3.1\MultithreadingLockingMonitor.runtimeconfig.dev.json
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\bin\Debug\netcoreapp3.1\MultithreadingLockingMonitor.dll
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\bin\Debug\netcoreapp3.1\MultithreadingLockingMonitor.pdb
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\obj\Debug\netcoreapp3.1\MultithreadingLockingMonitor.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\obj\Debug\netcoreapp3.1\MultithreadingLockingMonitor.AssemblyInfoInputs.cache
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\obj\Debug\netcoreapp3.1\MultithreadingLockingMonitor.AssemblyInfo.cs
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\obj\Debug\netcoreapp3.1\MultithreadingLockingMonitor.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\obj\Debug\netcoreapp3.1\MultithreadingLockingMonitor.dll
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\obj\Debug\netcoreapp3.1\MultithreadingLockingMonitor.pdb
+C:\Users\zackm\source\repos\MultithreadingLockingMonitor\MultithreadingLockingMonitor\obj\Debug\netcoreapp3.1\MultithreadingLockingMonitor.genruntimeconfig.cache
